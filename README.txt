@@ -17,3 +17,4 @@ Feature2 changes
 >>>>>>> origin/master
 Sharing is a fun
 For merge purpose
+TEXT to see push in a lab
