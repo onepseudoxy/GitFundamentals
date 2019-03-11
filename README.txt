@@ -16,3 +16,4 @@ Feature2
 Feature2 changes
 >>>>>>> origin/master
 Sharing is a fun
+For merge purpose
