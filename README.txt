@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 merhaba Ameen
 Kayefa al7al
 New code here
+  fixing bug #1234
 =======
 Hello, Git
 Updating README with new information
@@ -13,9 +15,4 @@ Another fix to Bug#1234
 
 Feature1
 Feature2
-Feature2 changes
->>>>>>> origin/master
-Sharing is a fun
-For merge purpose
-TEXT to see push in a lab
-Feature1
+
