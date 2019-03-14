@@ -25,3 +25,4 @@ Feature2
 fixing bug #1234
 Another fix to the bug  1234
 >>>>>>> Another fix to the bug 1234
+Feature2
